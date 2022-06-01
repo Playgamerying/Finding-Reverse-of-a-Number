@@ -1,0 +1,14 @@
+F:\Learning\C#\Example programs\Finding Reverse of a Number\bin\Debug\Finding Reverse of a Number.exe.config
+F:\Learning\C#\Example programs\Finding Reverse of a Number\bin\Debug\Finding Reverse of a Number.exe
+F:\Learning\C#\Example programs\Finding Reverse of a Number\bin\Debug\Finding Reverse of a Number.pdb
+F:\Learning\C#\Example programs\Finding Reverse of a Number\obj\Debug\Finding Reverse of a Number.csproj.AssemblyReference.cache
+F:\Learning\C#\Example programs\Finding Reverse of a Number\obj\Debug\Finding Reverse of a Number.csproj.CoreCompileInputs.cache
+F:\Learning\C#\Example programs\Finding Reverse of a Number\obj\Debug\Finding Reverse of a Number.exe
+F:\Learning\C#\Example programs\Finding Reverse of a Number\obj\Debug\Finding Reverse of a Number.pdb
+F:\Learning\C#\Example programs\Finding specific type of numbers - programs\Finding Reverse of a Number\bin\Debug\Finding Reverse of a Number.exe.config
+F:\Learning\C#\Example programs\Finding specific type of numbers - programs\Finding Reverse of a Number\bin\Debug\Finding Reverse of a Number.exe
+F:\Learning\C#\Example programs\Finding specific type of numbers - programs\Finding Reverse of a Number\bin\Debug\Finding Reverse of a Number.pdb
+F:\Learning\C#\Example programs\Finding specific type of numbers - programs\Finding Reverse of a Number\obj\Debug\Finding Reverse of a Number.csproj.AssemblyReference.cache
+F:\Learning\C#\Example programs\Finding specific type of numbers - programs\Finding Reverse of a Number\obj\Debug\Finding Reverse of a Number.csproj.CoreCompileInputs.cache
+F:\Learning\C#\Example programs\Finding specific type of numbers - programs\Finding Reverse of a Number\obj\Debug\Finding Reverse of a Number.exe
+F:\Learning\C#\Example programs\Finding specific type of numbers - programs\Finding Reverse of a Number\obj\Debug\Finding Reverse of a Number.pdb
